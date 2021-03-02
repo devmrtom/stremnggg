@@ -9,7 +9,7 @@ const ownerID = ''
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses =  ['🤞🏻👿زۆلی دیسکۆرد🤞🏻☠️','باپیری دیڤلۆپەرەکا,','Vadgay Dlm UP🤞😍❤️'] ////←←←←لێرە شتەکان بنوسە
+  let statuses =  ['🤞🏻👿زۆلی دیسکۆرد','باپیری دیڤلۆپەرەکا,🤞🏻☠️','JUBA ITS MY Teacher😍❤️'] ////←←←←لێرە شتەکان بنوسە
   
   setInterval(function() {
     let playing = statuses[Math.floor(Math.random() * statuses.length)];
@@ -100,7 +100,7 @@ message.channel.send(`وێنەی ئەکاونتەکەت ئەوەیە☟: ${messa
 break;
  
 
-case "<@633755815773208611>"://///لێرە ئایدی ئەکاونتت دانێ
+case "<@690595196735455315>"://///لێرە ئایدی ئەکاونتت دانێ
         
       
 message.channel.send ("ببورە بۆ کاری بۆت و پڕۆجێکت بەچات جواب نادەمەوە بەس لەڤۆیس👍")
@@ -112,6 +112,6 @@ message.channel.send ("ببورە بۆ کاری بۆت و پڕۆجێکت بەچ�
 
 /////لێرە تۆکین دانێ 					
   
-client.login("NjkwNTk1MTk2NzM1NDU1MzE1.YCLrFA.gtMFSY8tbs6PeNMKmhjWNDEq5H")
+client.login("NjkwNTk1MTk2NzM1NDU1MzE1.YD7PkQ.DqFLuqjheCIHCiJAwKnX6DD1kA4")
 
 /////تکایە هیچ کەسێک دەسکاری ئێرە نەکا ڕیمێکسی بکەن ئەوجا
