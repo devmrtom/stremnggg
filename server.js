@@ -9,7 +9,7 @@ const ownerID = ''
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses =  ['🤞🏻👿زۆلی دیسکۆرد','باپیری دیڤلۆپەرەکا,🤞🏻☠️','JUBA ITS MY Teacher😍❤️'] ////←←←←لێرە شتەکان بنوسە
+  let statuses =  ['🤞🏻👿زۆلی دیسکۆرد','باپیری دیڤلۆپەرەکا,🤞🏻☠️','DAVOS Drm UP 😍❤️'] ////←←←←لێرە شتەکان بنوسە
   
   setInterval(function() {
     let playing = statuses[Math.floor(Math.random() * statuses.length)];
