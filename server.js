@@ -9,7 +9,7 @@ const ownerID = ''
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses =  ['🤞🏻👿زۆلی دیسکۆرد','باپیری دیڤلۆپەرەکا,🤞🏻☠️','DAVOS Drm UP 😍❤️'] ////←←←←لێرە شتەکان بنوسە
+  let statuses =  ['🤞🏻👿زۆلی دیسکۆرد','باپیری دیڤلۆپەرەکا,🤞🏻☠️','END WEB UP 😍❤️'] ////←←←←لێرە شتەکان بنوسە
   
   setInterval(function() {
     let playing = statuses[Math.floor(Math.random() * statuses.length)];
@@ -112,6 +112,6 @@ message.channel.send ("ببورە بۆ کاری بۆت و پڕۆجێکت بەچ�
 
 /////لێرە تۆکین دانێ 					
   
-client.login("NjkwNTk1MTk2NzM1NDU1MzE1.YD7PkQ.DqFLuqjheCIHCiJAwKnX6DD1kA4")
+client.login("NjkwNTk1MTk2NzM1NDU1MzE1.YEbasQ.Bl4xgykfduzvldEg4o5u1Pvee7M")
 
 /////تکایە هیچ کەسێک دەسکاری ئێرە نەکا ڕیمێکسی بکەن ئەوجا
