@@ -3,13 +3,13 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix  ='$'
-const ownerID = ''
+const ownerID = '790347073999863819'
 
      client.on("ready", () => {
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses =  ['🤞🏻👿Davos Drm UP','باپیری دیڤلۆپەرەکا,🤞🏻☠️','Kurdish Sporter UP😍❤️'] ////←←←←لێرە شتەکان بنوسە
+  let statuses =  ['🤞🏻👿Farhangi Drm UP','باپیری دیڤلۆپەرەکان🤞🏻☠️,','Moon Light UP😍❤️'] ////←←←←لێرە شتەکان بنوسە
   
   setInterval(function() {
     let playing = statuses[Math.floor(Math.random() * statuses.length)];
@@ -100,7 +100,7 @@ message.channel.send(`وێنەی ئەکاونتەکەت ئەوەیە☟: ${messa
 break;
  
 
-case "<@690595196735455315>"://///لێرە ئایدی ئەکاونتت دانێ
+case "<@790347073999863819>"://///لێرە ئایدی ئەکاونتت دانێ
         
       
 message.channel.send ("ببورە بۆ کاری بۆت و پڕۆجێکت بەچات جواب نادەمەوە بەس لەڤۆیس👍")
@@ -112,6 +112,6 @@ message.channel.send ("ببورە بۆ کاری بۆت و پڕۆجێکت بەچ�
 
 /////لێرە تۆکین دانێ 					
   
-client.login("NjkwNTk1MTk2NzM1NDU1MzE1.YEbasQ.Bl4xgykfduzvldEg4o5u1Pvee7M")
+client.login("NzkwMzQ3MDczOTk5ODYzODE5.YWtKkQ.tLjVS8Z62eR1mlQPS_urGnIIgTg")
 
 /////تکایە هیچ کەسێک دەسکاری ئێرە نەکا ڕیمێکسی بکەن ئەوجا
