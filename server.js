@@ -112,6 +112,6 @@ message.channel.send ("ببورە بۆ کاری بۆت و پڕۆجێکت بەچ�
 
 /////لێرە تۆکین دانێ 					
   
-client.login("NzkwMzQ3MDczOTk5ODYzODE5.YWtKkQ.tLjVS8Z62eR1mlQPS_urGnIIgTg")
+client.login("NzkwMzQ3MDczOTk5ODYzODE5.YWtNiA.JEwg6QyoJb_o09RKBLQa36fLFgg")
 
 /////تکایە هیچ کەسێک دەسکاری ئێرە نەکا ڕیمێکسی بکەن ئەوجا
