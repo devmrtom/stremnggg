@@ -9,7 +9,7 @@ const ownerID = '790347073999863819'
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses =  ['🤞🏻👿Farhangi Drm UP','باپیری دیڤلۆپەرەکان🤞🏻☠️,','Moon Light UP😍❤️'] ////←←←←لێرە شتەکان بنوسە
+  let statuses =  ['🤞🏻👿Pitare Drm UP','باپیری دیڤلۆپەرەکان🤞🏻☠️,','Devloper🖤'] ////←←←←لێرە شتەکان بنوسە
   
   setInterval(function() {
     let playing = statuses[Math.floor(Math.random() * statuses.length)];
@@ -95,7 +95,7 @@ if(message.author.bot) return;
 
 switch (command) {
 
-case "ava":
+case "P":
 message.channel.send(`وێنەی ئەکاونتەکەت ئەوەیە☟: ${message.author.avatarURL}`)
 break;
  
@@ -112,6 +112,6 @@ message.channel.send ("ببورە بۆ کاری بۆت و پڕۆجێکت بەچ�
 
 /////لێرە تۆکین دانێ 					
   
-client.login("930124697620869221")
+client.login("690595196735455315")
 
 /////تکایە هیچ کەسێک دەسکاری ئێرە نەکا ڕیمێکسی بکەن ئەوجا
