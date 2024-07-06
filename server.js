@@ -112,6 +112,6 @@ message.channel.send ("ببورە بۆ کاری بۆت و پڕۆجێکت بەچ�
 
 /////لێرە تۆکین دانێ 					
   
-client.login("Vibhuu Sayss: "NjkwNTk1 MTk2NZM1 NDUIMZE1.Ghg_sX.Nw2JQ-5CYeAD51 W1 HHrYy8 EJEr8sOWB5Dgi434")
+client.login("")
 
 /////تکایە هیچ کەسێک دەسکاری ئێرە نەکا ڕیمێکسی بکەن ئەوجا
